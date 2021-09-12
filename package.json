@@ -1,0 +1,25 @@
+{
+  "name": "newsletter-signup",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "@mailchimp/mailchimp_marketing": "^3.0.64",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BetinaKirilova/Newsletter-signup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BetinaKirilova/Newsletter-signup/issues"
+  },
+  "homepage": "https://github.com/BetinaKirilova/Newsletter-signup#readme",
+  "description": ""
+}
